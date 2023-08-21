@@ -62,28 +62,7 @@ To install the official Node.js library, run the following command in your Node.
 
  Example curl command:
                            curl https://api.openai.com/v1/models \
-  -H "Authorization: Bearer $OPENAI_API_KEY" \
-  -H "OpenAI-Organization: org-ud1aMk8vQtEmb0HbOw8Cfb7Y"
-
-
-  Example with the openai Python package:
-
-import os
-import openai
-openai.organization = "org-ud1aMk8vQtEmb0HbOw8Cfb7Y"
-openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.Model.list()
-
-
- Example with the openai Node.js package:
-
-import { Configuration, OpenAIApi } from "openai";
-const configuration = new Configuration({
-    organization: "org-ud1aMk8vQtEmb0HbOw8Cfb7Y",
-    apiKey: process.env.OPENAI_API_KEY,
-});
-const openai = new OpenAIApi(configuration);
-const response = await openai.listEngines();
+  
 
 
 
