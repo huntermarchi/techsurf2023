@@ -49,6 +49,44 @@ So for giving these images and working of our project we connected this with : h
 Link for my AI Generator Application : https://huntermarchi.github.io/techsurf2023/
 
 
+# HOW TO MAKE THE RUNNING ENVIRONMENT FOR ABOVE APPLICATION 
+
+                            pip install openai
+
+To install the official Node.js library, run the following command in your Node.js project directory.
+
+                        npm install openai@^4.0.0
+ All API requests should include your API key in an Authorization HTTP header as follows:
+
+                        Authorization: Bearer OPENAI_API_KEY
+
+ Example curl command:
+                           curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "OpenAI-Organization: org-ud1aMk8vQtEmb0HbOw8Cfb7Y"
+
+
+  Example with the openai Python package:
+
+import os
+import openai
+openai.organization = "org-ud1aMk8vQtEmb0HbOw8Cfb7Y"
+openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.Model.list()
+
+
+ Example with the openai Node.js package:
+
+import { Configuration, OpenAIApi } from "openai";
+const configuration = new Configuration({
+    organization: "org-ud1aMk8vQtEmb0HbOw8Cfb7Y",
+    apiKey: process.env.OPENAI_API_KEY,
+});
+const openai = new OpenAIApi(configuration);
+const response = await openai.listEngines();
+
+
+
 
 
 
