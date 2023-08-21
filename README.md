@@ -1,6 +1,6 @@
-# techsurf2023
+# TechSurf2023
 
-Project's Title:
+# Project's Title:
 
 Design & Develop an impressive tool that utilizes generative AI to generate content while maintaining the style and tone of previously written content.
 So we designed two applications for AI Generative .
