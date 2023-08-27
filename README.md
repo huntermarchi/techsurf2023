@@ -51,7 +51,7 @@ So if we search football then our appliaction give 1024 * 1024 (It generates 4 i
 So for giving these images and working of our project we connected this with : https://api.openai.com/v1/images/generations
 
 
-Link for my AI Generator Application : https://huntermarchi.github.io/techsurf2023/
+Link for my AI Generator Application : https://huntermarchi.github.io/t/
 
 
 # HOW TO MAKE THE RUNNING ENVIRONMENT FOR ABOVE APPLICATION 
