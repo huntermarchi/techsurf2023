@@ -12,6 +12,11 @@ So we designed two applications for AI Generative .
 
   Below is the homepage of AI Image generator  🏆🏆
 
+  THE CODE FOR THIS :
+  1. APP.JS
+  2. INDEX.HTML
+  3. STYLES.JSS
+
 
                                                     IMAGE 1 
 
@@ -62,13 +67,58 @@ To install the official Node.js library, run the following command in your Node.
 
  Example curl command:
                            curl https://api.openai.com/v1/models \
+
+
+
+                                        CONTENTSTACK AI TEXT GENERATOR 
+
+                                        
+Below is the homepage of AI Image generator  🏆🏆
+
+
+                      
   
+<img width="1440" alt="Screenshot 2023-08-24 at 9 44 42 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/d70e68c1-d2e3-4572-bb9f-864cd4fd9bbc">
+
+
+THE WORKING IMAGE OF PROJECT IS AS FOLLOWS :
+
+
+                                               IMAGE 1 
+                                               
+
+<img width="1440" alt="Screenshot 2023-08-24 at 9 44 23 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/b75204a6-57ea-4bc5-8bcc-69017cdfd85c">
 
 
 
 
+                                                IMAGE 2
+                                                
+
+<img width="1440" alt="Screenshot 2023-08-24 at 9 45 12 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/e6d029a3-d09e-4bbf-b77d-d63b2667ded0">
 
 
 
+                                                IMAGE 3
+<img width="1437" alt="Screenshot 2023-08-24 at 9 46 06 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/9e1929d0-11a4-4685-8c20-565520d9821d">
+
+                                                    IMAGE 4
+<img width="1437" alt="Screenshot 2023-08-24 at 9 46 24 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/dae85dcb-870e-4a28-9a3b-396637cdab1f">
 
 
+TO SEE ABOVE CODE :
+1. USE PYTHON AND JUPYTER FILES
+2. WEB.HTML
+3. SCRIPT.JS
+4. STYLE.JS
+                      
+USE VISUAL CODE , JUPYTER NOTEBOOK , SUPERVISED AND UNSUPERVISED LEARNING FOR IMPLEMENTING ALGORITHMS .
+
+
+
+![SC](https://github.com/huntermarchi/techsurf2023/assets/95737632/74d1605f-5807-4462-bdb5-aa6557d5ca89)
+
+THANKS FOR GIVING THIS GOLDEN OPPURTUNITY .
+
+
+                                                    
