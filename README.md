@@ -73,7 +73,7 @@ To install the official Node.js library, run the following command in your Node.
                                         CONTENTSTACK AI TEXT GENERATOR 
 
                                         
-Below is the homepage of AI Image generator  🏆🏆
+Below is the homepage of AI text generator  🏆🏆
 
 
                       
