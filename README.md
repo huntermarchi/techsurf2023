@@ -24,7 +24,7 @@ So we designed two applications for AI Generative .
 <img width="1440" alt="Screenshot 2023-08-21 at 5 38 56 PM" src="https://github.com/huntermarchi/techsurf2023/assets/95737632/29c1d355-c77f-4597-a6c4-64a075671124">
 
 
-The working images are as follows of our Image Generator :
+The working images are as follows of our Text Generator :
 
                                                    IMAGE 2
 
